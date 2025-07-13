@@ -5,23 +5,16 @@
 #contenedor2 {
     display: flex;   
     margin-top: 5px; 
-    border: 2px solid rgb(59, 182, 243);
+    
 }
 
 
 #contenedor3 {
     display: flex;
-    flex-direction: column;
     margin-top: 5px;  
     margin-top: 10px;
     justify-content:end
 }
-#div {
-    border : 2px solid rgb(182, 59, 243);
-}
-#fieldset {
-    border : 2px solid rgb(16, 23, 233);
-}
-#display {
-    border : 2px solid green;
+.btn-danger {
+    margin-right: 10px;
 }
